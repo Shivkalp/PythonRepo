@@ -28,4 +28,4 @@ def slice(object, slicing_parameter):
       
 print(slice(object,slicing_parameter))
       
-      
+Author - Shashwat Shivkumar Girwalkar
